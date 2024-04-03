@@ -1,3 +1,3 @@
 # typescript-baseline
 
-This is the baseline configuration for typescript projects
+This is the baseline configuration for typescript projects using Express and Node.
